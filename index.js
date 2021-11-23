@@ -1,5 +1,4 @@
 module.exports = {
-    Batch: require('./lib/batch'),
     AdminSDK: require('./lib/auth'),
     GroupProvisioning: require('./lib/group_provisioning'),
     OrgUnitProvisioning: require('./lib/org_unit_provisioning'),

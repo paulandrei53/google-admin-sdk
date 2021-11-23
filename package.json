@@ -1,6 +1,6 @@
 {
   "name": "nodejs-google-admin-sdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Node.js library for Google's Admin SDK",
   "main": "./index.js",
   "directories": {
