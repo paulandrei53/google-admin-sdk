@@ -1,6 +1,6 @@
 {
   "name": "nodejs-google-admin-sdk",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Node.js library for Google's Admin SDK",
   "main": "./index.js",
   "directories": {
@@ -29,11 +29,15 @@
   "keywords": [
     "directory",
     "api",
+    "rest",
     "groups",
     "google",
     "admin",
+    "resources",
+    "module",
     "sdk"
   ],
+  "license": "MIT",
   "author": "Andrei Paul",
   "bugs": {
     "url": "https://github.com/paulandrei53/nodejs-google-admin-sdk/issues"
